@@ -18,7 +18,7 @@ strokeWidth(2)
 oval(500,500,200,180)
 
 
-#ASCII Artq strings must be on a single line, unless you wrap with """
+#ASCII Art 
 print("""
     ||  ||  ||
         ||
